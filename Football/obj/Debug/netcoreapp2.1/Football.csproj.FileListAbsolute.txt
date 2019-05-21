@@ -1,0 +1,11 @@
+F:\Tutorial\Contest\Football\Football\bin\Debug\netcoreapp2.1\Football.deps.json
+F:\Tutorial\Contest\Football\Football\bin\Debug\netcoreapp2.1\Football.runtimeconfig.json
+F:\Tutorial\Contest\Football\Football\bin\Debug\netcoreapp2.1\Football.runtimeconfig.dev.json
+F:\Tutorial\Contest\Football\Football\bin\Debug\netcoreapp2.1\Football.dll
+F:\Tutorial\Contest\Football\Football\bin\Debug\netcoreapp2.1\Football.pdb
+F:\Tutorial\Contest\Football\Football\obj\Debug\netcoreapp2.1\Football.csprojAssemblyReference.cache
+F:\Tutorial\Contest\Football\Football\obj\Debug\netcoreapp2.1\Football.csproj.CoreCompileInputs.cache
+F:\Tutorial\Contest\Football\Football\obj\Debug\netcoreapp2.1\Football.AssemblyInfoInputs.cache
+F:\Tutorial\Contest\Football\Football\obj\Debug\netcoreapp2.1\Football.AssemblyInfo.cs
+F:\Tutorial\Contest\Football\Football\obj\Debug\netcoreapp2.1\Football.dll
+F:\Tutorial\Contest\Football\Football\obj\Debug\netcoreapp2.1\Football.pdb
